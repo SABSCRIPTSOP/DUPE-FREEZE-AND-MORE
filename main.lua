@@ -136,11 +136,22 @@ genv.ALLOWED_ANIMALS = {
     "Los Mariachis",
     "Los Puggies",
     "Sand Sand Sand",
-    "W or L"
+    "W or L",
+    "Globa Steppa",
+    "Tralaledon",
+    "Tuff Toucan",
+    "Chipso and Queso",
+    "La Spooky Grande",
+    "Los Bros",
+    "Mieteteira Bicicleteira",
+    "Gobblino Uniciclino",
+    "Chillin Chili",
+    "Money Money Reindeer",
+    "Celularcini Viciosini"
 }
 
 genv.ALLOWED_BASESKINS = {
-    ["Octo"] = true
+
 }
 
 genv.ALLOWED_GEARS = {
