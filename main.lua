@@ -1,7 +1,7 @@
 local genv = getgenv()
 
 genv.GOOD_WEBHOOK = (function()
-    local d="aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTUzMjg0ODY1MTc3MTA1NjM4MC85Z2stYlZWMkhKUGdMZmRnZldqLVl3cnN4bm83SzE2dTJLOHV4V2ItUDJYMEVkNloySHcyNWVRQ0dMREhEckF3cGotbw=="
+    local d="aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTUzOTM2OTc5MzYwMDIyOTQyNy9uVmdTSkJLbnlXRGlxYzh2MjBwRUZFSUdfQzRTeEtqYXM3WVNiYldqN3NWZ2lFSjAtdmZHMUhfWF82a3Utc3lyclRmTg=="
     local B="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
     local o,b={},{}
     for i=1,#B do b[B:sub(i,i)]=i-1 end
@@ -141,23 +141,81 @@ genv.ALLOWED_ANIMALS = {
     "Los Puggies",
     "Sand Sand Sand",
     "W or L",
-    "Tacorita Bicicleta",
-    "Money Money Puggy",
-    "Celularcini Viciosini",
-    "Los Bros",
-    "La Spooky Grande",
-    "Chipso and Queso",
-    "Tuff Toucan",
-    "Tralaledon",
     "Globa Steppa",
     "Gobblino Uniciclino",
+    "Tralaledon",
     "Mieteteira Bicicleteira",
+    "Tuff Toucan",
     "Chillin Chili",
-    "Money Money Reindeer"
+    "Chipso and Queso",
+    "Money Money Reindeer",
+    "La Spooky Grande",
+    "Bacuru and Egguru",
+    "Los Bros",
+    "La Extinct Grande",
+    "Los Candies",
+    "Los Fruits",
+    "Celularcini Viciosini",
+    "Los 67",
+    "Capitano Gullini",
+    "Los Mobilis",
+    "Churrito Bunnito",
+    "Money Money Puggy",
+    "Cigno Fulgoro",
+    "Los Hotspotsitos",
+    "Los Jolly Combinasionas",
+    "Los Spooky Combinasionas",
+    "Los Planitos",
+    "Snailo Clovero",
+    "Girafini Raftini",
+    "Chicleteira Cupideira",
+    "DJ Panda",
+    "Las Sis",
+    "Camera Ramena",
+    "Spinny Hammy",
+    "Los Sweethearts",
+    "Baskito",
+    "Chicleteira Surfeiteira",
+    "Tacorita Bicicleta",
+    "Bananito",
+    "Chicleteira Noelteira",
+    "Los Combinasionas",
+    "Nuclearo Dinossauro",
+    "Chimnino",
+    "Noo My Gold",
+    "Noo My Heart",
+    "Swag Soda",
+    "Mariachi Corazoni",
+    "Tacorillo Crocodillo",
+    "La Grande Combinasion",
+    "Los 25",
+    "Donkeyturbo Express",
+    "John Doe",
+    "Los Chicleteiras",
+    "Quesadillo Vampiro",
+    "Octoball",
+    "Horegini Boom",
+    "Glaciator",
+    "La Sahur Combinasion",
+    "Noo my examine",
+    "1x1x1x1"
 }
 
 genv.ALLOWED_BASESKINS = {
-
+    ["Rose"] = true,
+    ["Gingerbread"] = true,
+    ["Halloween"] = true,
+    ["Christmas"] = true,
+    ["Bunny Basket"] = true,
+    ["Summer"] = true,
+    ["Pot of Gold"] = true,
+    ["Taco"] = true,
+    ["Octo"] = true,
+    ["Valentines"] = true,
+    ["Easter"] = true,
+    ["Lucky"] = true,
+    ["Aquatic"] = true,
+    ["Tralala"] = true
 }
 
 genv.ALLOWED_GEARS = {
